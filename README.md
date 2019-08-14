@@ -6,8 +6,8 @@ Created in HTML and CSS
 
 ## Installation
 
-```Copy path email.html from your IDE and paste it on browser
-```
+Copy path email.html from your IDE and paste it on browser
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
